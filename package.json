@@ -1,0 +1,29 @@
+{
+  "name": "discord-yt-live",
+  "version": "1.0.0",
+  "description": "A NPM pakage to allows user to post annouuncements when a youtube streamer goes live",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dex-404/discord-yt-live.git"
+  },
+  "keywords": [
+    "youtube",
+    "live",
+    "discord.js"
+  ],
+  "author": "Dex-404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dex-404/discord-yt-live/issues"
+  },
+  "homepage": "https://github.com/Dex-404/discord-yt-live#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "needle": "^3.2.0",
+    "video-thumbnail-url": "^1.0.1"
+  }
+}
